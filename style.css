@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=SUSE:wght@100..800&display=swap');
+
+body{
+    font-family: sans-serif;
+    font-size: 18px;
+    margin-left: 15%;
+    margin-right: 15%;
+    /* margin:auto; */
+}
+
+.connect{
+    display: inline;
+}
+
+header div h1{
+    margin: 50px 0px;
+}
+.profil{
+    margin: 60px 0px;
+}
+header img, .info{
+    display: inline-block;
+    vertical-align: top;
+}
+
+h2{
+    margin: 10px;
+}
+
+.list{
+    margin: 20px auto;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.hobby{
+    width: 600px;
+    margin: 30px auto;
+    border-radius: 25px;
+    background-color: aquamarine;
+    opacity: 0.8;
+    box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+.expiriense{
+    width: 600px;
+    margin: 20px auto;
+    border-radius: 25px;
+    background-color: pink;
+    opacity: 0.8;
+        box-shadow: 10px 10px 20px rgba(0, 0, 0, 0.3);
+}
+
+img{
+    width: 250px;
+    margin: 15px 350px;
+    margin-right: 50px;
+    border-radius: 15px;
+    box-shadow: 15px 15px 20px rgba(0, 0, 0, 0.3);
+    /* display: inline; */
+}
+
+.table{
+    padding: 15px;
+}
+
+table{
+    margin: 15px;
+}
